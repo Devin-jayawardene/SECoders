@@ -3,7 +3,6 @@ public class first
 public static void main(String args[])
 {
 	sec obj=new sec();
-	
 	for(int i=0;i<5;i++)
 	{
 		for(int j=0;j<5;j++)
@@ -15,10 +14,6 @@ public static void main(String args[])
 		}
 		System.out.println();
 	}
-
-
 }
 
-
-} jkldfdf
-dflksdjfd
+} 
