@@ -1,7 +1,7 @@
 # SECoders
-
-<h1>Team Members:</h1>
-
-<h2>01)https://github.com/pasandevin</h2>
-<h2>02)https://github.com/Warunajith</h2>
-<h2>03)https://github.com/nipuninawodani</h2>
+<br>
+<h3>Team Members:</h3>
+<br>
+<h4>01)https://github.com/pasandevin</h4>
+<h4>02)https://github.com/Warunajith</h4>
+<h4>03)https://github.com/nipuninawodani</h4>
